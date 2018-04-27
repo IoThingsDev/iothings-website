@@ -3,4 +3,5 @@ title: "IoThings: Connect Every Thing"
 description: "Bootstrap your next IoT project."
 ---
 
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+IoThings is an IoT framework that will allow you to speed up your backend developments, while being secure, reliable
+and scalable.
