@@ -15,7 +15,7 @@ theme = "ananke"
     identifier = "documentation"
     name = "Docs"
     title = "Docs"
-    url = "/documentation/"
+    url = "https://docs.iothings.fr"
     weight = 20
   [[menu.main]]
     identifier = "about"
@@ -37,7 +37,7 @@ theme = "ananke"
     weight = 40
 
 [params]
-  favicon = ""
+  favicon = "favicons/favicon.ico"
   description = "IoT framework, at scale."
   facebook = ""
   twitter = ""
